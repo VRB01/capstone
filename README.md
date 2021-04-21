@@ -1,4 +1,6 @@
 # Capstone
+### Transformers in the field of Audio Classification: Speaker recognition
+A PESU final year project by Aayush Shah, Kayan Katrak, Kanish Singh and Rohit Menon.
 
 ## Capstone Repository for VRB01
 
@@ -13,6 +15,8 @@ In case the code base needs to be tested extenally specfile.txt can be used to d
 - You can also view how we take [input](VoiceInput.ipynb) an [reduce noise](noisereduce.ipynb) from these files.
 
 ## Database warning
-While running notebooks from this repo, you will have to give access to you google drive account. Note, that if you want to view preliminary results, request access from (email)=(dr3amt3am007@gmail.com)
+While running notebooks from this repo, you will have to give access to you google drive account. Note, that if you want to view preliminary results,you may have to request access from the drive owner.
+
+For further enquiries, contact Aayush,Kayan,Kanishk and Rohit at dr3amt3am007@gmail.com
 
  
