@@ -1,6 +1,6 @@
 # Capstone
 
-##Capstone Repository for VRB01
+## Capstone Repository for VRB01
 
 All files are executable using Google Collab. There is no need to externally download dependencies as the notebook will dynamically take care of all the requirements.
 In case the code base needs to be tested extenally specfile.txt can be used to download dependencies for any environment.
