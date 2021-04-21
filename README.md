@@ -5,7 +5,7 @@ A PESU final year project by Aayush Shah, Kayan Katrak, Kanish Singh and Rohit M
 ## Capstone Repository for VRB01
 
 All files are executable using Google Collab. There is no need to externally download dependencies as the notebook will dynamically take care of all the requirements.
-In case the code base needs to be tested extenally specfile.txt can be used to download dependencies for any environment.
+In case the code base needs to be tested externally [specification file](spec-file.txt) can be used to download dependencies for any environment.
  In such cases, if certain dependencies need to be redownloaded add a code block at the end of the required file and use command `!pip list -v`
  
  ## Executables
